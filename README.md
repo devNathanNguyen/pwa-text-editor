@@ -1,4 +1,5 @@
 # 19 Progressive Web Applications (PWA): Text Editor
+![image](https://user-images.githubusercontent.com/113803421/227922480-248ff426-54f0-4165-b2e9-75144ad4da9f.png)
 
 ## Your Task
 
